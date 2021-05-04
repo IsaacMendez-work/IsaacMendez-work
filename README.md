@@ -1,5 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" align="right" alt="Visitor badge" />
-<h1> Hello World! </h1>
+<img alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" align=”right” style=”margin: 0px 0px 0px 10px;” /><p>Hello World!</p>
 <p> Thank you for visiting my GitHub page. </p>
 <!--
 <h2> Here are live GitHub stats: </h2>
