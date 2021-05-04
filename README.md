@@ -1,6 +1,11 @@
 <h1>Isaac Mendez</h1>
+<div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="visitor badge" style="float: right;" />
+  <h1 style="position: relative;">Thank you for visiting my GitHub page.</h1>
+</div>
+
+
 <p>Hello World!</p><img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="Visitor badge" align="right" style="margin: 0px 0px 0px 10px;" />
-<p> Thank you for visiting my GitHub page. </p>
 <!--
 <h2> Here are live GitHub stats: </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue" />
