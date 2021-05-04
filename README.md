@@ -3,7 +3,7 @@
 <img align="center" width="250px" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot"/>
 -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 <h1> Hello World! </h1>
 <div size='20px'> Hi! My name is Isaac Mendez, and I just wanted to thank you for visiting my GitHub page!</div>
