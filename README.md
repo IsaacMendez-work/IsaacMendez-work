@@ -20,5 +20,5 @@
 <a href = 'https://www.linkedin.com/in/workisaacmendez'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/IsaacMendez-work'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <h2> April's GitHub Stats </h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aprila13&count_private=true&show_icons=true&theme=merko" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprila13&theme=merko" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue" />
