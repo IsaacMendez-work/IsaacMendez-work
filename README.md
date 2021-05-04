@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="250px" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E03AQGm09F29LxXow/profile-displayphoto-shrink_400_400/0/1619792878738?e=1625702400&v=beta&t=nbz3WqvAPwtYF9_tMiMDcv367bUmRZ9qeXVbQGT75Hs" alt="Isaac Mendez's headshot"/>
 </div>
-    
+	![visitors](https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work)
 <h1> Hello World! </h1>
 <div size='20px'> Hi! My name is Isaac Mendez. Thank You for taking the time to view my GitHub Profile.</div>
 <h2> About Me </h2>
@@ -19,6 +19,6 @@
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/workisaacmendez'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/IsaacMendez-work'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<h2> April's GitHub Stats </h2>
+<h2> Here are my GitHub stats: </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue" />
