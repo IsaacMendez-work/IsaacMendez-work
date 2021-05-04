@@ -1,9 +1,6 @@
-<div align="center">
-	<img width="250px" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E03AQGm09F29LxXow/profile-displayphoto-shrink_400_400/0/1619792878738?e=1625702400&v=beta&t=nbz3WqvAPwtYF9_tMiMDcv367bUmRZ9qeXVbQGT75Hs" alt="Isaac Mendez's headshot"/>
+<div>
+	<img align="center" width="250px" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E03AQGm09F29LxXow/profile-displayphoto-shrink_400_400/0/1619792878738?e=1625702400&v=beta&t=nbz3WqvAPwtYF9_tMiMDcv367bUmRZ9qeXVbQGT75Hs" alt="Isaac Mendez's headshot"/><span><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="Visitor badge"/></span>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work) 
-
 <h1> Hello World! </h1>
 <div size='20px'> Hi! My name is Isaac Mendez. Thank You for taking the time to view my GitHub Profile.</div>
 <h2> About Me </h2>
