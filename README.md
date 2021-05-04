@@ -1,6 +1,4 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" align="right" alt="Visitor badge" />
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" align="center" alt="Isaac Mendez's headshot" />
-<p style="clear: both">
 <h1> Hello World! </h1>
 <p> Thank you for visiting my GitHub page. </p>
 <!--
@@ -21,5 +19,6 @@
 <a href= https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 -->
 <h2> Connect with me </h2>
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" align="center" alt="Isaac Mendez's headshot" />
 <a href = 'https://www.linkedin.com/in/workisaacmendez'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/IsaacMendez-work'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
