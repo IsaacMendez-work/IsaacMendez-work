@@ -31,7 +31,6 @@ My current position is working with U.S. Bank as a project manager in their fina
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" />
 
 <div align="center">
 	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" align="center" alt="Isaac Mendez's headshot" />
