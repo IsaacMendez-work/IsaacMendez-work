@@ -1,10 +1,10 @@
-<h1>
+<p style="font-size: 550%;">
 	Thank you for visiting my GitHub page! 
 	<img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="visitor badge" align="right" />
-</h1>
+</p>
 <h2> About Me </h2>
-**Hello, World!**
-I've worked in tech for less than a year, but I've come to love the hello world program and its seeming ubiquity. 😃 
+<p><strong>Hello, World!</strong></p>
+<p>I've worked in tech for less than a year, but I've come to love the hello world program and its seeming ubiquity 😃 </p>
 My current position is working with U.S. Bank as a project manager in their financial tech department. I'm going through a bootcamp now to learn a little more about what my team does. 
 	- I've done some work in JavaScript, so <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=javascript&sort=">please take a look at that</a>
 	- HTML was my introduction to programming, and you can <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=">checkout those repos as well</a>
