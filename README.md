@@ -10,15 +10,10 @@
 <a href="https://www.freecodecamp.org/isaacmendez-work"><img height="30px" alt="freeCodeCamp logo" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"></a>&nbsp;&nbsp;
 <a href="mailto:IsaacMendez.work@gmail.com"><img height="30px" alt="GMail logo" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>&nbsp;&nbsp;
 </p>
-<p align="center"><strong>Hello, World!</strong></p>
 
-My name is Isaac, and I've worked in tech for less than a year.   
-My current position is working with U.S. Bank as a project manager in their financial tech department. I'm going through a bootcamp now to learn a little more about how my team does what they do.    
-	- I've done some work in JavaScript, so [please take a look at that](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=javascript&sort=")    
-	- HTML was my introduction to programming, and you can [checkout those repos as well](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=)   
-	- Most recently, I used TypeScript to work on [some Angular projects](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=) you can check out    
-	- To these skills, I will be adding Java, Confluence, Jira, and Spring Boot   
-
+**Hello, World!** I'm a project manager with U.S. Bank, and I'm working through a bootcamp to learn a little more about how my team does what they do!    
+- I've done a few projects using [JavaScript](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=javascript&sort="), [HTML](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=), and [TypeScript](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=) that I would love you to [take a look at](https://github.com/IsaacMendez-work?tab=repositories)!
+- To these skills, I will be adding Java, Confluence, Jira, and Spring Boot   
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <ul>
@@ -28,6 +23,13 @@ My current position is working with U.S. Bank as a project manager in their fina
    <li> Angular development</li>
   </ul>
 </details>
+
+
+Hard skills — our abilities related to our projects in GitHub, our professional works, educational degree
+Professional tools — any software we are good at especially related to our day to day works, for instance as a Data Scientist, I usually use Python, R programming, shell scripting, and other tools
+Medium latest article — it will list our latest articles on Medium, so people can easily read those
+GitHub activity — the statistic of our activity in GitHub, such as total stars, total commits, total pull request, etc
+    
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue)
