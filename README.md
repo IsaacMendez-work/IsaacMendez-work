@@ -1,4 +1,4 @@
-<h1 align="center" font-size="200%">
+<h1 align="center">
 	Thank you for visiting my GitHub page! 
 	<img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="visitor badge" align="right" />
 </h1>
@@ -7,10 +7,10 @@
 My name is Isaac, and I've worked in tech for less than a year.   
 My current position is working with U.S. Bank as a project manager in their financial tech department. I'm going through a bootcamp now to learn a little more about how my team does what they do.    
 	- I've done some work in JavaScript, so [please take a look at that](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=javascript&sort=")    
-	- HTML was my introduction to programming, and you can [checkout those repos as well](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=   
+	- HTML was my introduction to programming, and you can [checkout those repos as well](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=)   
 	- Most recently, I used TypeScript to work on [some Angular projects](https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=) you can check out    
-	- To these skills, I will be adding Java, Confluence, Jira, and Spring Boot 
-	- Here is the breakdown of my GitHub by language:
+	- To these skills, I will be adding Java, Confluence, Jira, and Spring Boot   
+	- Here is the breakdown of my GitHub by language:   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue" />
 <!--
 <h2> Here are live GitHub stats: </h2>
