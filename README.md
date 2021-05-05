@@ -5,9 +5,9 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/IsaacMendez-work/"><img height="30px" alt="LinkedIn logo" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/isaacmendez_work"><img height="30px" alt="HackerRank logo" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/isaacmendez-work"><img height="30px" alt="freeCodeCamp logo" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codecademy.com/profiles/IsaacMendez-work"><img height="30px" alt="Codecademy logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Cib-codecademy_%28CoreUI_Icons_v1.0.0%29.svg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/isaacmendezwork"><img height="30px" alt="DEV logo" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"></a>&nbsp;&nbsp;
+<a href="https://www.freecodecamp.org/isaacmendez-work"><img height="30px" alt="freeCodeCamp logo" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"></a>&nbsp;&nbsp;
 <a href="mailto:IsaacMendez.work@gmail.com"><img height="30px" alt="GMail logo" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center"><strong>Hello, World!</strong></p>
