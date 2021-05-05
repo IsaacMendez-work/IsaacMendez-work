@@ -20,8 +20,9 @@ My current position is working with U.S. Bank as a project manager in their fina
 -->
 
 <h2> Connect with me </h2>
-<div>
-	<a href = 'https://www.linkedin.com/in/workisaacmendez'> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a> 
+<div align="center">
 	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" align="center" alt="Isaac Mendez's headshot" />
+	<br>
+	<a href = 'https://www.linkedin.com/in/workisaacmendez'> <img width="32px" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a> 
 	<a href = 'https://www.github.com/IsaacMendez-work'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a> 
 </div>
