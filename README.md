@@ -3,7 +3,7 @@
 	<img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="visitor badge" align="right">
 </h1>
 <p align='center'>
-	<a href="https://www.linkedin.com/in/WorkIsaacMendez/"><img height="30px" alt="LinkedIn logo" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/IsaacMendez-work/"><img height="30px" alt="LinkedIn logo" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>&nbsp;&nbsp;
 	<a href="https://www.hackerrank.com/isaacmendez_work"><img height="30px" alt="HackerRank logo" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>&nbsp;&nbsp;
 	<a href="https://www.codecademy.com/profiles/IsaacMendez-work"><img height="30px" alt="Codecademy logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Cib-codecademy_%28CoreUI_Icons_v1.0.0%29.svg"></a>&nbsp;&nbsp;
 	<a href="https://dev.to/isaacmendezwork"><img height="30px" alt="DEV logo" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"></a>&nbsp;&nbsp;
@@ -33,30 +33,6 @@
 	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot" />
 </p>
 <p align="left">
-	Feel free to <a href="https://www.linkedin.com/in/WorkIsaacMendez/">check out my LinkedIn</a>!   
+	Feel free to <a href="https://www.linkedin.com/in/IsaacMendez-work/">check out my LinkedIn</a>!   
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats" align="right">
 </p>
-              
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='workisaacmendez'
->
-  <a
-    class='LI-simple-link'
-    href='https://www.linkedin.com/in/workisaacmendez?trk=profile-badge'
-  >
-    Isaac Mendez (he/him)
-  </a>
-</div>
-
-<script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
