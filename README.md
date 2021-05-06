@@ -14,13 +14,13 @@
 **Hello, World!** I'm a project manager with U.S. Bank, and I'm working through a bootcamp to learn a little more about how my team does what they do!    
 
 <details>
-	<summary><strong>I've done a few projects using <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=">HTML</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=java&sort=">Java</a> and <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=">TypeScript</a> that I would love you to <a href="https://github.com/IsaacMendez-work?tab=repositories">take a look at</a>!</strong></summary>
-	<p align="center">Here are my GitHub language stats:</p> 
+	<summary><strong> I've done a few projects using <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=java&sort=">JavaScript</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=">HTML</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=java&sort=">Java</a> and <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=">TypeScript</a> that I would love you to <a href="https://github.com/IsaacMendez-work?tab=repositories">take a look at</a>! </strong></summary>
+	<p align="center">These are my live GitHub language stats:</p> 
 	<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMendez-work&theme=vue" align="center" alt="Isaac Mendez's top GitHub languages" /></p>
 </details>
 
 <details>
-	<summary><strong>What I am learning and working on these days</strong></summary>
+	<summary><strong> Click here to see what I've been learning and working on 😃 </strong></summary>
 	<ul>
 		<li> Efficient system designing </li>
 		<li> Learning Jira and Confluence </li>
@@ -29,16 +29,13 @@
 		<li> Using program libraries like React and Angular </li>
 	</ul>
 </details>
+<p align="center">
+	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot" />
+</p>
+<p align="left">
+	Feel free to <a href="https://www.linkedin.com/in/IsaacMendez-work/">check out my LinkedIn</a>!   
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats" align="right">
+</p>
 
-
-Professional tools — any software we are good at especially related to our day to day works, for instance as a Data Scientist, I usually use Python, R programming, shell scripting, and other tools
-Medium latest article — it will list our latest articles on Medium, so people can easily read those
-GitHub activity — the statistic of our activity in GitHub, such as total stars, total commits, total pull request, etc
-    
-
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs)
-
-
-<div align="center">
-	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" align="center" alt="Isaac Mendez's headshot" />
-</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>	
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="workisaacmendez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/workisaacmendez?trk=profile-badge">Isaac Mendez (he/him)</a></div>
