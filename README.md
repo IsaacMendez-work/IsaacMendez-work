@@ -36,8 +36,27 @@
 	Feel free to <a href="https://www.linkedin.com/in/WorkIsaacMendez/">check out my LinkedIn</a>!   
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats" align="right">
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="workisaacmendez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/workisaacmendez?trk=profile-badge">Isaac Mendez (he/him)</a></div>
               
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='workisaacmendez'
+>
+  <a
+    class='LI-simple-link'
+    href='https://www.linkedin.com/in/workisaacmendez?trk=profile-badge'
+  >
+    Isaac Mendez (he/him)
+  </a>
+</div>
+
+<script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
