@@ -31,9 +31,11 @@
 	</ul>
 </details>
 <p align="center">
-	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot" /> 
 </p>
-<p align="left">
-	Feel free to <a href="https://www.linkedin.com/in/IsaacMendez-work/">check out my LinkedIn</a>!   
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats" align="right">
+<p align="center">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=IsaacMendez-work&theme=vue&dates=AAAAAA&fire=DD2727" alt="Isaac's GitHub streak"> <br> -->
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats">
 </p>
+
+### Feel free to [check out my LinkedIn](https://www.linkedin.com/in/IsaacMendez-work/)!
