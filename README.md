@@ -12,7 +12,7 @@
 	<a href="mailto:IsaacMendez.work@gmail.com"><img height="30px" alt="GMail logo" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>&nbsp;&nbsp;
 </p>
 
-**Hello, World!** I'm a project manager with U.S. Bank, and I'm working through a bootcamp to learn a little more about how my team does what they do!    
+**Hello, World!** I'm a product manager with U.S. Bank, and I'm working through a bootcamp to learn a little more about how my team does what they do!    
 
 <details>
 	<summary><strong> I've done a few projects using <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=java&sort=">JavaScript</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=html&sort=">HTML</a>, <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=java&sort=">Java</a> and <a href="https://github.com/IsaacMendez-work?tab=repositories&q=&type=&language=typescript&sort=">TypeScript</a> that I would love you to <a href="https://github.com/IsaacMendez-work?tab=repositories">take a look at</a>! </strong></summary>
