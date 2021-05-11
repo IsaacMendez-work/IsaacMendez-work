@@ -1,7 +1,7 @@
 <span>
-	<span align="left">
+<!-- 	<span align="left">
 		<a href="README.md">English</a> ∙ <a href="README-es.md">Español</a>
-	</span>
+	</span> -->
 	<span>
 		<img src="https://visitor-badge.glitch.me/badge?page_id=IsaacMendez-work.IsaacMendez-work" alt="visitor badge" align="right">
 	</span>
