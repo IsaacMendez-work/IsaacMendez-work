@@ -36,7 +36,7 @@
 	</ul>
 </details>
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF4mDYydCqYxw/profile-displayphoto-shrink_400_400/0/1620154078278?e=1625702400&v=beta&t=mOaW7jUTJ0jfkTVPpnUOMsJs4nCuDxFmQrdhEWZzSyM" alt="Isaac Mendez's headshot" /> 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEugjV8AKMHZQ/profile-displayphoto-shrink_400_400/0/1620154152552?e=1626912000&v=beta&t=c7OB2-bXN5d639xH_2APqT0JrQcOyo8vbEkSH0Tnx3k" alt="Isaac Mendez's headshot" /> 
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats">
