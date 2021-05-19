@@ -36,11 +36,11 @@
 	</ul>
 </details>
 <p align="center">
-<img src="/Headshot.jpg" width="499px" alt="Isaac Mendez's headshot" /> 
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" alt="Isaac's GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IsaacMendez-work&theme=vue&dates=AAAAAA&fire=DD2727" alt="Isaac's GitHub streak"> <br>
+<img src="/Headshot.jpg" width="488px" alt="Isaac Mendez's headshot" /> 
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacMendez-work&count_private=true&show_icons=true&theme=vue&hide=issues,contribs" width="485px" alt="Isaac's GitHub stats">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IsaacMendez-work&theme=vue&dates=AAAAAA&fire=DD2727" width="485px" alt="Isaac's GitHub streak"> <br>
 </p>
 
 ### Feel free to [check out my LinkedIn](https://www.linkedin.com/in/IsaacMendez-work/)!
