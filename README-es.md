@@ -12,7 +12,7 @@
 	<a href="https://www.hackerrank.com/isaacmendez_work"><img height="30px" alt="ícono de HackerRank" src="/assets/HackerRank.png"></a>&nbsp;&nbsp;
 	<a href="https://www.codecademy.com/profiles/IsaacMendez-work"><img height="30px" alt="ícono de Codecademy" src="/assets/Codecademy.jpg"></a>&nbsp;&nbsp;
 	<a href="https://dev.to/isaacmendezwork"><img height="30px" alt="ícono de DEV" src="/assets/DEV.png"></a>&nbsp;&nbsp;
-	<a href="https://www.freecodecamp.org/isaacmendez-work"><img height="30px" alt="ícono de freeCodeCamp" src="/assets/freeCodeCamp.png"></a>&nbsp;&nbsp;
+	<a href="https://www.freecodecamp.org/isaacmendez-work"><img height="30px" alt="ícono de freeCodeCamp" src="/assets/freeCodeCamp.jpg"></a>&nbsp;&nbsp;
 	<a href="https://vercel.com/isaacmendez-work"><img height="30px" alt="ícono de Vercel" src="/assets/Vercel.png"></a>&nbsp;&nbsp;
 	<a href="mailto: IsaacMendez-work@protonmail.com"><img height="30px" alt="ícono de ProtonMail" src="/assets/ProtonMail.png"></a>&nbsp;&nbsp;
 </p>
